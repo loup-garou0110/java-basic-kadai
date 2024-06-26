@@ -7,7 +7,7 @@ public class CarExec_Chapter15 {
 		//車を生成
 		Car_Chapter15 car = new Car_Chapter15();
 		
-		car.gearChange(3);
+		car.gearChange(4);
 		car.run();
 
 	}

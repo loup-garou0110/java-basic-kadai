@@ -20,6 +20,7 @@ public class Car_Chapter15 {
 			break;
 		case 4:
 			this.speed = 40;
+			break;		
 		case 5:
 			this.speed = 50;
 			break;
